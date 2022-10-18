@@ -1,0 +1,295 @@
+/* reset css start */
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&amp;family=Roboto&amp;display=swap");
+html {
+	scroll-behavior: smooth;
+}
+body {
+	font-family: "Roboto", sans-serif;
+	color: #212227;
+	font-size: 1rem;
+	padding: 0;
+	margin: 0;
+	font-weight: 400;
+	position: relative;
+	line-height: 1.7;
+	background: #fff;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+	overflow-x: hidden;
+}
+body.page-trns-active {
+	opacity: 0.5;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	user-select: none;
+}
+ul,
+ol {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+*:focus {
+	outline: none;
+}
+button {
+	border: none;
+}
+button:focus {
+	outline: none;
+	border-color: #006de8;
+}
+span {
+	display: inline-block;
+}
+a:hover {
+	color: #006de8;
+}
+h1 {
+	font-size: 3.875rem;
+}
+h2 {
+	font-size: 2rem;
+}
+@media (max-width: 991px) {
+	h2 {
+		font-size: 1.875rem;
+	}
+}
+@media (max-width: 575px) {
+	h2 {
+		font-size: 1.75rem;
+	}
+}
+h3 {
+	font-size: 1.5rem;
+}
+h4 {
+	font-size: 1.375rem;
+}
+@media (max-width: 767px) {
+	h4 {
+		font-size: 1.25rem;
+	}
+}
+h5 {
+	font-size: 1.25rem;
+}
+@media (max-width: 767px) {
+	h5 {
+		font-size: 1.125rem;
+	}
+}
+h6 {
+	font-size: 1.125rem;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Barlow", sans-serif;
+	color: #212225;
+	font-weight: 500;
+	margin: 0;
+	line-height: 1.3;
+	word-break: break-word;
+}
+h1 > a,
+h2 > a,
+h3 > a,
+h4 > a,
+h5 > a,
+h6 > a {
+	font-family: "Barlow", sans-serif;
+	color: #212225;
+	font-weight: 500;
+	-webkit-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+	line-height: 1.3;
+	word-break: break-word;
+}
+p,
+li,
+span {
+	margin: 0;
+}
+a {
+	text-decoration: none;
+	display: inline-block;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+}
+a:hover {
+	text-decoration: none;
+}
+.font-size--18px {
+	font-size: 1.125rem !important;
+}
+.font-size--16px {
+	font-size: 1rem !important;
+}
+.font-size--14px {
+	font-size: 0.875rem !important;
+}
+.font-size--12px {
+	font-size: 0.75rem !important;
+}
+/* reset css end */
+
+/* global css start */
+.bg-img {
+	background-size: cover;
+	background-position: center center;
+}
+/* global css end */
+
+/* header css start */
+.header {
+	padding-top: 150px;
+	position: relative;
+	z-index: 1;
+}
+.header::before {
+	position: absolute;
+	content: "";
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	/* -webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px); */
+	z-index: -1;
+}
+.author__thumb {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	overflow: hidden;
+	border: 8px solid #ffffff;
+	box-shadow: 0 2px 4px #c7c7c7;
+}
+
+.author__thumb img {
+	width: inherit;
+	height: inherit;
+	object-fit: cover;
+	-o-object-fit: cover;
+	object-position: top;
+	-o-object-position: top;
+}
+.author {
+	margin-bottom: -50px;
+}
+.author .author__content {
+	padding-left: 40px;
+}
+.social-list {
+	margin: -5px -7px;
+}
+.social-list li {
+	margin: 5px 7px;
+}
+.social-list li a {
+	width: 35px;
+	height: 35px;
+	background-color: #9aa5b6;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	border-radius: 3px;
+	font-size: 18px;
+}
+/* header css end */
+
+/* main-section css start */
+.main-section {
+	padding-top: 150px;
+	padding-bottom: 80px;
+}
+.form-control {
+	border: 1px solid #6e6e6e50;
+	height: 55px;
+	padding: 10px 20px;
+}
+.form-control:focus {
+	box-shadow: 0 5px 10px 1px rgba(0, 0, 0, 0.1);
+}
+.portfolio-card {
+	padding: 25px;
+	background-color: #f2f3f5;
+	border-radius: 15px;
+}
+.portfolio-card__thumb {
+	border: 5px solid #fff;
+	border-radius: 5px;
+}
+.cmn-btn {
+	font-size: 13px;
+	font-weight: 600;
+	text-transform: uppercase;
+	padding: 6px 25px;
+	background: #006de8;
+	color: #fff !important;
+	border-radius: 5px;
+}
+.cmn-btn:hover {
+	border-color: #006de8;
+}
+.portfolio-card__content .title a {
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+/* main-section css end */
+
+.social-list .facebook {
+	background-color: #1771e6;
+}
+.social-list .linkedin {
+	background-color: #0b61b8;
+}
+.social-list .github {
+	background-color: #1c2128;
+}
+.social-list .skype {
+	background-color: #00aff0;
+}
+
+/* responsive css start */
+@media (max-width: 767px) {
+	.social-list {
+		margin-left: 120px;
+	}
+}
+@media (max-width: 575px) {
+	.header {
+		padding: 70px 0;
+	}
+	.author {
+		justify-content: center;
+		margin-bottom: 0;
+	}
+	.author .author__content {
+		padding-left: 0;
+		width: 100%;
+		text-align: center;
+		margin-top: 20px;
+	}
+	.social-list {
+		margin-left: 0;
+		margin-top: 20px;
+	}
+	.portfolio-card {
+		padding: 15px;
+	}
+}
+/* responsive css end */
