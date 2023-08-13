@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmunnaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mdmunnaahmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmunnaahmed" alt="mdmunnaahmed" /></a> </p>
-
 - 🔭 I’m currently working on **vue-bus-booking**
 
 - 🌱 I’m currently learning **VUE, one of the most popular JavaScript framework**
