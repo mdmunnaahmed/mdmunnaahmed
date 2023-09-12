@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmunnaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mdmunnaahmed" /> </p>
 
-- 🔭 I’m currently working on **vue-bus-booking**
+- 🔭 I’m currently working on **VUE**
 
-- 🌱 I’m currently learning **VUE, one of the most popular JavaScript framework**
+- 🌱 I’m currently learning **VUE, one of the most popular JavaScript frameworks**
 
 - 👨‍💻 All of my projects are available at [https://munna.themebracket.com](https://munna.themebracket.com)
 
