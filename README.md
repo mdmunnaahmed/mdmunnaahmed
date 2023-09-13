@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **VUE**
 
-- 🌱 I’m currently learning **VUE, one of the most popular JavaScript frameworks**
+- 🌱 I’m currently learning **VUE,one of the most popular JavaScript frameworks**
 
 - 👨‍💻 All of my projects are available at [https://munna.themebracket.com](https://munna.themebracket.com)
 
