@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Munna Ahmed</h1>
-<h3 align="center">Frontend developer (VueJs | Nuxt). Unlocking simplicity for complex challenges</h3>
+<h3 align="center">Frontend developer (VueJs | NuxtJs). Unlocking simplicity for complex challenges</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmunnaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mdmunnaahmed" /> </p>
 
@@ -17,8 +17,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mdmunnaahmed" target="blank">LinkedIn</a>
-<a href="https://munna.themebracket.com" target="blank">Personal Website</a>
-<a href="https://join.skype.com/invite/VbwQq5BnWjqn" target="blank">Skype</a>
-<a href="https://wa.me/01400091582" target="blank">WhatsApp</a>
+<div>
+  <a href="https://linkedin.com/in/mdmunnaahmed" target="blank">LinkedIn</a>
+</div>
+<div>
+  <a href="https://munna.themebracket.com" target="blank">Personal Website</a>
+</div>
+<div>
+  <a href="https://join.skype.com/invite/VbwQq5BnWjqn" target="blank">Skype</a>
+</div>
+<div>
+  <a href="https://wa.me/01400091582" target="blank">WhatsApp</a>
+</div>
 </p>
