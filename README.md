@@ -19,6 +19,6 @@
 
 - <a href="https://linkedin.com/in/mdmunnaahmed" target="blank">LinkedIn</a>
 - <a href="https://munna.themebracket.com" target="blank">Personal Website</a>
-- <a href="https://join.skype.com/invite/VbwQq5BnWjqn" target="blank"></a>
+- <a href="https://join.skype.com/invite/VbwQq5BnWjqn" target="blank">Skype</a>
 - <a href="https://wa.me/01400091582" target="blank">WhatsApp</a>
 
