@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Munna Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Munna Ahmed</h1>
 <h3 align="center">Frontend developer (VueJs | NuxtJs). Unlocking simplicity for complex challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmunnaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mdmunnaahmed" /> </p>
