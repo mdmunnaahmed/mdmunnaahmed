@@ -21,4 +21,3 @@
 - <a href="https://munna.themebracket.com" target="blank">Personal Website</a>
 - <a href="https://join.skype.com/invite/VbwQq5BnWjqn" target="blank">Skype</a>
 - <a href="https://wa.me/01400091582" target="blank">WhatsApp</a>
-
